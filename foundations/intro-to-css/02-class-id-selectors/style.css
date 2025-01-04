@@ -1,0 +1,20 @@
+.odd {
+    color: black;
+    background-color: salmon;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: lightseagreen;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.threeSize {
+    font-size: 24px;
+}
